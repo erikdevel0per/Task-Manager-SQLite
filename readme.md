@@ -1,0 +1,1 @@
+The program allows users to add, list, update and delete tasks using an SQLite database for persistent storage.
