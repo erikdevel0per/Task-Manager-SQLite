@@ -85,8 +85,8 @@ Operações SQL Utilizadas:
 
 - Validação de Entrada: O código não valida as entradas do usuário, o que pode causar falhas se o usuário inserir dados incorretos (como texto em campos que devem ser números).
 
-## **Muito Obrigado pela sua atenção!**
 - Interface Gráfica: O programa usa uma interface de linha de comando. Seria possível implementar uma interface gráfica para facilitar a interação do usuário.
 
 - Melhoria no Fluxo de Controle: O fluxo de controle poderia ser melhorado para evitar a repetição de código, e também para oferecer feedback ao usuário sobre as operações executadas (como mensagens de sucesso ou erro).
 
+## **Muito Obrigado pela sua atenção!**
