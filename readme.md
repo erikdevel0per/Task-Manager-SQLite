@@ -52,7 +52,7 @@ Menu Interativo:
 
 - O programa solicita a entrada do usuário e executa a ação correspondente com base na opção selecionada.
 
-Operações de Banco de Dados:
+Operações de **Banco de Dados**:
 
 - Adicionar Tarefa: Quando o usuário escolhe adicionar uma tarefa, o programa solicita uma descrição e insere essa tarefa no banco de dados com o status "Pendente".
 - Listar Tarefas: Quando o usuário escolhe listar as tarefas, uma consulta SQL `SELECT` é executada para recuperar todas as tarefas e a função `callback` exibe os resultados no console.
